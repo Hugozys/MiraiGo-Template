@@ -5,7 +5,7 @@ A template for MiraiGo
 > v2 版本正在重写，请提出 *你的想法* 或 *你对当前设计的不满* 
 > 本菜鸡会尽量改 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Logiase/MiraiGo-Template)](https://goreportcard.com/report/github.com/Logiase/MiraiGo-Template)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Hugozys/MiraiGo-Template)](https://goreportcard.com/report/github.com/Hugozys/MiraiGo-Template)
 
 基于 [MiraiGo](https://github.com/Mrs4s/MiraiGo) 的多模块组合设计
 
@@ -84,7 +84,7 @@ package main_test
 import (
 	"testing"
 
-	"github.com/Logiase/MiraiGo-Template/bot"
+	"github.com/Hugozys/MiraiGo-Template/bot"
 )
 
 func TestGenDevice(t *testing.T) {
@@ -102,7 +102,7 @@ func TestGenDevice(t *testing.T) {
 go get -u
 ```
 
-### 将 [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template) 作为go module使用
+### 将 [MiraiGo-Template](https://github.com/Hugozys/MiraiGo-Template) 作为go module使用
 
 可参考当前 [app.go](./app.go) 将其引入
 
@@ -117,7 +117,7 @@ go get -u
 
 欢迎PR
 
- - [logiase.autoreply](https://github.com/Logiase/MiraiGo-module-autoreply)
+ - [Hugozys.autoreply](https://github.com/Hugozys/MiraiGo-module-autoreply)
  按照收到的消息进行回复
 
 ## 进阶内容 
