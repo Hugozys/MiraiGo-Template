@@ -2,6 +2,6 @@
 
 application.yaml
 device.json
-
+sync.sh
 logs/
 
